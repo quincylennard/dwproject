@@ -1,0 +1,89 @@
+.border{
+    height: 100%;
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #2D2D2D;
+} 
+
+html, body{
+    height: 97%;
+    width: 97%; 
+    background-color: #999999;
+ 
+}
+
+body {
+     padding: 1%;
+}
+.box {
+    height: 75px;
+    float: left;
+    width: 175px;
+    padding: 10px; 
+    border: 1px solid black;
+    margin: 10px;
+     font: 14px 'Istok Web', sans-serif;
+    font-size: 25px;
+   
+}
+
+.color0 {
+    background-color: #990000;
+}
+
+.color1 {
+    background-color: #216C2A; 
+}
+
+.color2 {
+    background-color: #ffd700;
+}
+
+.layout {
+    height: 100%;
+    overflow: hidden;
+}
+
+.left{
+    width: 180px;
+    float: left;
+    height: 100%;
+    border: 1px solid black;
+    padding-right: 10px;
+    background-color: #6D8383;
+}
+
+.right {
+    float: none;
+    width: auto;
+    height: 100%;
+    overflow: hidden;
+}
+
+button {
+    border: 1px solid black;
+    margin: 3px;
+    background-color: #0266C8;
+    float: right;
+    height: 20px;
+    width: 50px;
+    
+    
+}
+
+
+input {
+    border: 1px solid black;
+    margin: 8px;
+    height: 25px;
+    width:  170px;
+    float: center;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
